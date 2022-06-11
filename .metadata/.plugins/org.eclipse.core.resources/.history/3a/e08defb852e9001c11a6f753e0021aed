@@ -1,0 +1,14 @@
+package day41;
+
+public class Bcd extends Abc{
+ 
+	
+	@Override
+	public void talk() {
+		
+	}
+	
+	
+	
+
+}	

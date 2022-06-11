@@ -1,0 +1,16 @@
+package day41;
+
+public class Abc {
+	String name;
+	String age;
+
+	public Abc(String name, String age) {
+		this.name = name;
+		this.age = age;
+	}
+
+	public void talk() {
+		System.out.println("¸»ÇÏ´Ù");
+	}
+
+}

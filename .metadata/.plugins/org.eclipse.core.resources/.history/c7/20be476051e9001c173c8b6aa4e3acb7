@@ -1,0 +1,9 @@
+package day41;
+
+public class Abc {
+
+	public void talk() {
+		System.out.println("¸»ÇÏ´Ù");
+	}
+
+}

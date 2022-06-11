@@ -1,0 +1,15 @@
+package day41;
+
+public class Abc {
+	String name;
+	String age;
+	
+	
+	Abc abc = new Abc();
+	
+	
+	public void talk() {
+		System.out.println("¸»ÇÏ´Ù");
+	}
+
+}
