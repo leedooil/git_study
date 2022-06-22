@@ -5,6 +5,11 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\82106\OneDrive\바탕 화면\멘토자바\game"/>
+			<item value="C:\Users\82106\OneDrive\바탕 화면\멘토자바\nintendo"/>
+			<item value="C:\Users\82106\OneDrive\바탕 화면\멘토자바\mcdonald"/>
+		</list>
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="145"/>
@@ -13,5 +18,7 @@
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">
 		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
 	</section>
 </section>
